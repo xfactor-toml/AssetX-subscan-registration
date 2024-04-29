@@ -1,7 +1,7 @@
 {
   "TokenID": "<ID or Contract Address>",
   "TokenSymbol": "",
-  "Logo": "../logos/[logo file name]",
+  "Logo": "../logos/[logo file name with *.png]",
   "Description (en)": "",
   "Description (zh)": "",
   "Website Link": "<LEAVE HERE A LINK OR EMPTY>",
